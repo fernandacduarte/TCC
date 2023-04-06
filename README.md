@@ -1,2 +1,2 @@
 # TCC
-Imagens HDR e o método de Tone Mapping
+Tone Mapping and HDR Images
